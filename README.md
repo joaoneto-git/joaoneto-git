@@ -9,7 +9,12 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaoneto-git&show_icons=true&theme=react#react)](https://github.com/joaoneto-git/github-readme-stats#react) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoneto-git&layout=compact)](https://github.com/joaoneto-git/github-readme-stats)
+<h3 align="left"> 📊 Métricas do Github: </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kterra&label=Profile%20views&color=0e75b6&style=flat" alt="kterra" /> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kterra&show_icons=true&locale=en" alt="kterra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kterra&" alt="kterra" /></p>
 # Dev Skills: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
