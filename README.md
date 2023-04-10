@@ -9,3 +9,4 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaoneto-git&show_icons=true&theme=react#react)](https://github.com/joaoneto-git/github-readme-stats#react) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoneto-git&layout=compact)](https://github.com/joaoneto-git/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoneto-git)](https://github.com/anuraghazra/github-readme-stats)
