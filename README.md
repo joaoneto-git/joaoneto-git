@@ -7,4 +7,4 @@
 - 📫 e-mail: joao.c@ufms.br
 - 😄 Pronouns: ele/dele
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaoneto-git&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/joaoneto-git/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaoneto-git&show_icons=true&theme=react#react)](https://github.com/joaoneto-git/github-readme-stats#react)
