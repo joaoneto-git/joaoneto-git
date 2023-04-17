@@ -3,7 +3,7 @@
 
 - 🔭 Hoje estou me especialisando em Data Science e Data Analyst
 - 🌱 Graduando em Engenharia de Sofware 
-- 💬 Aprendendo React js
+- 💬 Estuadando React js
 - 📫 e-mail: joao.c@ufms.br
 - 😄 Pronouns: ele/dele
 
