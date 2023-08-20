@@ -1,9 +1,9 @@
 ### Olá! eu sou o João Neto 👋
 
 
-- 🔭 Hoje estou me especialisando em Data Science e Data Analyst
+- 🔭 Hoje estou me especialisando em Gerência de Projetos
 - 🌱 Graduando em Engenharia de Sofware 
-- 💬 Estuadando React js
+- 💬 Estuadando maneiras de aprimorar Metodos Ageis
 - 📫 e-mail: joao.c@ufms.br
 - 😄 Pronouns: ele/dele
 
